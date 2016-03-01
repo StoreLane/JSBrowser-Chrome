@@ -1,6 +1,6 @@
 #&nbsp;![Logo](https://cloud.githubusercontent.com/assets/7266075/9254929/15448684-419b-11e5-8110-41757c572fe8.png) JavaScript Browser Chrome Edition
 A web browser built with JavaScript &amp; NW.js as a cross-platform app. This is a fork of the [JavaScript Browser](http://microsoftedge.github.io/JSBrowser/) having Microsoft Edge WebView replaced with Google Chrome WebView, which works in Windows/Linux/OS X. This is a pre-release.<br />
-http://niutech.github.io/JSBrowser/
+http://niutech.github.io/JSBrowser-Chrome/
 
 ![JavaScript Browser Chrome Edition](http://i.imgur.com/SDFft2Y.png)
 
